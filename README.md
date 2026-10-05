@@ -1,11 +1,10 @@
 # NHANES 2021-2023 CVD Dataset
-
-Dataset prepared for machine learning models to predict cardiovascular diseases.
-
-## Data Dictionary
-
-# Preparação do Dataset NHANES 2021-2023 para Modelos de Aprendizado de Máquina
 ## Autor: Bruno Ricardo Corrêa
+## Fonte dos dados: [NHANES 2021-2023](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?BeginYear=2021)
+
+Dataset preparado para modelos de aprendizado de máquina para prever doenças cardiovasculares.
+
+## Dicionário de dados
 
 Os dados obtidos no estudo NHANES (2021-2023) estão separados em diferentes datasets, para que seja possível utilizar para o treinamento de modelos de Aprendizado de Máquina, é necessário fazer uma união dos mesmos.
 

@@ -322,3 +322,15 @@ Contém dados do questionário sobre Pressão Arterial e Colesterol.
 Contém o alvo preditivo (variável dependente) criado no seu projeto.
 
 * `target`: A variável alvo (rótulo/label) criada a partir da combinação de perguntas do questionário MCQ_L.xpt relacionadas a doenças cardiovasculares (MCQ160B, MCQ160C, MCQ160D, MCQ160E, MCQ160F) para indicar se o participante tem ou não uma condição cardiovascular diagnosticada.
+### Atributos Customizados (Feature Engineering)
+
+Este dataset (composto por 224 atributos) engloba os atributos originais listados acima e novas variu00e1veis criadas durante a etapa de Engenharia de Atributos:
+
+* `smk_cat`: Categoria de tabagismo derivada.
+* `alc_cat`: Categoria de consumo de u00e1lcool derivada.
+* `pa_mod_min_wk`: Minutos de atividade fu00edsica moderada por semana.
+* `pa_vig_min_wk`: Minutos de atividade fu00edsica vigorosa por semana.
+* `pa_cat`: Categoria geral de atividade fu00edsica.
+* `thyroid_cat`: Categoria agregada de problemas de tireoide.
+* `liver_cat`: Categoria agregada de condiu00e7u00f5es hepu00e1ticas.
+* `tc_mgdl_source` / `tg_mgdl_source`: Indicadores da fonte de dados de colesterol e trigliceru00eddeos.

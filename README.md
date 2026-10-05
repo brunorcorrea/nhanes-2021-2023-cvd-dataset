@@ -323,7 +323,7 @@ Contém o alvo preditivo (variável dependente) criado no seu projeto.
 * `target`: A variável alvo (rótulo/label) criada a partir da combinação de perguntas do questionário MCQ_L.xpt relacionadas a doenças cardiovasculares (MCQ160B, MCQ160C, MCQ160D, MCQ160E, MCQ160F) para indicar se o participante tem ou não uma condição cardiovascular diagnosticada.
 ### Atributos Customizados (Feature Engineering)
 
-Este dataset (composto por 224 atributos) engloba os atributos originais listados acima e novas variu00e1veis criadas durante a etapa de Engenharia de Atributos:
+Este dataset (composto por 227 atributos) engloba os atributos originais listados acima e novas variu00e1veis criadas durante a etapa de Engenharia de Atributos:
 
 * `smk_cat`: Categoria de tabagismo derivada.
 * `alc_cat`: Categoria de consumo de u00e1lcool derivada.

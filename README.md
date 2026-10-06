@@ -215,11 +215,11 @@ O dataset analítico final estruturado neste repositório possui **227 atributos
 | `t_prot_gdl` | Proteína Total (g/dL). |
 | `t_prot_gl` | Proteína Total (g/L). |
 | `target` | Variável alvo: Presença de Doença Cardiovascular (1=Sim, 0=Não). |
-| `tc_bch_mmol` | Variável clínica ou demográfica. |
+| `tc_bch_mmol` | Colesterol Total sérico refrigerado (painel bioquímico padrão) em mmol/L. |
 | `tc_mgdl` | Colesterol Total (mg/dL) - método de referência. |
 | `tc_mgdl_source` | Flag indicando a origem da medição de colesterol total (método referência ou fallback). |
 | `tc_mmol` | Colesterol Total em unidades do SI (mmol/L) - método de referência. |
-| `tg_bch_mmol` | Variável clínica ou demográfica. |
+| `tg_bch_mmol` | Triglicerídeos séricos refrigerados (painel bioquímico padrão) em mmol/L. |
 | `tg_mgdl` | Triglicerídeos (mg/dL). |
 | `tg_mgdl_source` | Flag indicando a origem da medição de triglicerídeos (método referência ou fallback). |
 | `tg_mmol` | Triglicerídeos em unidades do SI (mmol/L). |
